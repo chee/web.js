@@ -1,0 +1,11 @@
+{
+  "name": "web.js",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chee/web.js",
+  "author": "chee",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
